@@ -1,0 +1,15 @@
+C:\Users\jaque\projetojogo\bin\Debug\net6.0\projetojogo.exe
+C:\Users\jaque\projetojogo\bin\Debug\net6.0\projetojogo.deps.json
+C:\Users\jaque\projetojogo\bin\Debug\net6.0\projetojogo.runtimeconfig.json
+C:\Users\jaque\projetojogo\bin\Debug\net6.0\projetojogo.dll
+C:\Users\jaque\projetojogo\bin\Debug\net6.0\projetojogo.pdb
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.csproj.AssemblyReference.cache
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.AssemblyInfoInputs.cache
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.AssemblyInfo.cs
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.csproj.CoreCompileInputs.cache
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.dll
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\refint\projetojogo.dll
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.pdb
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\projetojogo.genruntimeconfig.cache
+C:\Users\jaque\projetojogo\obj\Debug\net6.0\ref\projetojogo.dll
